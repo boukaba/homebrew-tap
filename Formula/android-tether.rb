@@ -1,7 +1,7 @@
 class AndroidTether < Formula
   desc "Android USB Tethering for macOS — pure Rust, encrypted DNS, launchd daemon"
   homepage "https://github.com/boukaba/android-tether"
-  url "https://github.com/boukaba/android-tether.git", tag: "v2.1.0"
+  url "https://github.com/boukaba/android-tether.git", tag: "v2.2.0"
   license "MIT"
   head "https://github.com/boukaba/android-tether.git", branch: "main"
 
